@@ -1,0 +1,56 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\beto\UNITY\BlockBreaker\BlockBreakerGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\beto\UNITY\BlockBreaker\BlockBreakerGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\beto\UNITY\BlockBreaker\BlockBreakerGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\beto\UNITY\BlockBreaker\BlockBreakerGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\beto\UNITY\BlockBreaker\BlockBreakerGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\beto\UNITY\BlockBreaker\BlockBreakerGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.159 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\beto\UNITY\BlockBreaker\BlockBreakerGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\beto\UNITY\BlockBreaker\BlockBreakerGame_Data\Managed\System.dll (this message is harmless)
+Level Load Requested for: Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 3.695802 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 631.
+Total: 1.359802 ms (FindLiveObjects: 0.025283 ms CreateObjectMapping: 0.006716 ms MarkObjects: 0.217679 ms  DeleteObjects: 0.018962 ms)
+
+Mouse clicked launching ball
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+boing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Trigger ON, LOSE SCREEN
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Level Load Requested for: Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.540049 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 151.
+Total: 0.926814 ms (FindLiveObjects: 0.005135 ms CreateObjectMapping: 0.005925 ms MarkObjects: 0.145777 ms  DeleteObjects: 0.010271 ms)
+
+Game Finished
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
